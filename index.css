@@ -1,0 +1,23 @@
+
+body
+{
+    background-color:black;
+    text-align:center;
+    font-stretch: ultra-condensed;
+    color:white;
+}
+ h1
+ {   
+     font-size: 80px;     
+ }
+ a.link
+ {
+    font-size:25px;
+    color:aquamarine;
+ }
+ p.a
+ {
+    font-size:30px; 
+    font-family:Andale Mono, monospace;
+    color:gray;
+ }
